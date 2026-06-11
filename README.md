@@ -43,3 +43,4 @@
 
 - LinkedIn: [https://linkedin.com/in/Lucca Lyra Batista Felix](https://www.linkedin.com/in/lucca-lyra-batista-felix-b38b6a3b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BntZIpEzMQiK5D%2BAJq3VQNw%3D%3D)
 - Email: lucca4theo@gmail.com
+- portfolio: https://lucca-lbf.github.io/my-portfolio/
